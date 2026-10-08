@@ -1,0 +1,54 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+/*_BurstDebugInformation_DoNotShip/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# IDE and generated solution files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.csproj.meta
+*.sln.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Local files and signing credentials
+.DS_Store
+Thumbs.db
+Desktop.ini
+sysinfo.txt
+*.log
+*.tmp
+*.keystore
+*.jks
+*.p12
+*.pfx
+.env
+.env.*
+!.env.example
+/.vsconfig
+
+# Preserve Assets, Packages, ProjectSettings, all asset .meta files and PlaneWar.apk.
